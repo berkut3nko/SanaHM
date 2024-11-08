@@ -1,0 +1,70 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.vscode/*
+.vscode\
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that produce the files
+*.dll
+*.exe
+*.pdf
+*.pdb
+*.mdb
+
+# DotNet specific
+*.dotsettings.user
+
+# Visual Studio Code directories
+.vscode/
+
+# Visual Studio 2019/2022 directories and files
+.vs/
+
+# Visual Studio 2022 directories and files
+.vscode/
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# IIS
+.config/
+
+# Azure Pipeline
+!AzurePipelines/
+
+# Others
+.idea/
+_project/
+*.log
+*.cache
+*.data
+*.db
